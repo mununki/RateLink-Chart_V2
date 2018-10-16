@@ -4,9 +4,7 @@ This is React app for RateLink(http://www.rate-link.com) which render the charts
 
 ## Demo
 
-<video autoplay="autoplay" loop="loop" width="800" height="528">
-  <source src="/assets/video/ratelink_chart_v2.mp4" type="video/mp4">
-</video>
+![Demo](/assets/images/ratelink_chart_v2.gif)
 
 ## Tech Stacks
 
